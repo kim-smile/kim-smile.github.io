@@ -6,7 +6,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>내 웹사이트</title>
 </head>
 <body>
     <h1>안녕하세요! 이것은 GitHub Pages에서 호스팅된 웹사이트입니다.</h1>
